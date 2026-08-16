@@ -1,11 +1,11 @@
-# KLH-CSE-2026-2027-2420030044-EduMind
-# EduMind: An AI-Based Adaptive Learning and Quiz Generation System
+# KLH-CSE-2026-2027-2420030044-StudyGenie
+# StudyGenie: Adaptive AI-Powered Personalized Learning and Quiz Generation System
 
 ## Abstract
 
-EduMind is an AI-based adaptive learning system designed to help students learn effectively from their study materials. The system processes study content and generates concise notes, important points, and quiz questions automatically.
+StudyGenie is an AI-powered adaptive learning system designed to help students learn effectively from their study materials. The system processes study content and generates concise notes, important points, and quiz questions automatically.
 
-The system evaluates student quiz performance and identifies strong and weak learning areas. Based on the student's performance, EduMind provides personalized recommendations and generates additional questions for topics that require improvement.
+The system evaluates student quiz performance and identifies strong and weak learning areas. Based on the student's performance, StudyGenie provides personalized learning recommendations and generates additional questions for topics that require improvement.
 
 The project uses Python, Natural Language Processing, Machine Learning, and Streamlit to provide an interactive and personalized learning experience.
 
@@ -27,7 +27,7 @@ The project uses Python, Natural Language Processing, Machine Learning, and Stre
 - Automatic quiz evaluation
 - Performance analysis
 - Weak topic identification
-- Personalized recommendations
+- Personalized learning recommendations
 - Progress tracking
 
 ## Technologies Used
@@ -41,3 +41,7 @@ The project uses Python, Natural Language Processing, Machine Learning, and Stre
 - SQLite
 - Matplotlib
 - GitHub
+
+tputs
+reports/   - Review and final reports
+README.md  - Project information
